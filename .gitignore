@@ -1,5 +1,5 @@
 # Nuxt dev/build outputs
-.output
+# .output
 .data
 .nuxt
 .nitro
@@ -7,7 +7,7 @@
 dist
 
 # Node dependencies
-# node_modules
+node_modules
 
 # Logs
 logs
