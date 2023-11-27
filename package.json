@@ -9,7 +9,7 @@
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare",
     "start": "nuxt start",
-    "deploy": "npx serve .output/public"
+    "serve": "npx serve .output/public"
   },
   "devDependencies": {
     "@nuxt/devtools": "latest",
